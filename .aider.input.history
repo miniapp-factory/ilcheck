@@ -1,0 +1,44 @@
+
+# 2025-11-20 19:16:43.257360
++Code the following app
++```
++Idea: A calculator for Liquidity Providers (LPs) in DeFi to track or simulate Impermanent Loss.
++User Goal: Decide if providing liquidity is profitable compared to just holding the tokens.
++Core Features (MVP):
++
++* Inputs: Token A & B prices at entry, Current prices, Pool Weight (50/50).
++* Output: Impermanent Loss %, Value if Held, Value in Pool.
++* "Break-even" calculator: How much trading fee APY is needed to cover the IL.
++
++Development Plan:
++
++1. Implement the standard xy=k AMM formulas for IL calculation.
++2. Create a reactive UI where users can slide price bars to simulate "What if price goes up 10%?".
++3. Fetch live prices for auto-filling current values.
++4. Support different pool weights (e.g., Balancer 80/20 pools).
++5. Mobile-friendly design for quick checks on the go.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-20 19:16:43.258270
++Code the following app
++```
++Idea: A calculator for Liquidity Providers (LPs) in DeFi to track or simulate Impermanent Loss.
++User Goal: Decide if providing liquidity is profitable compared to just holding the tokens.
++Core Features (MVP):
++
++* Inputs: Token A & B prices at entry, Current prices, Pool Weight (50/50).
++* Output: Impermanent Loss %, Value if Held, Value in Pool.
++* "Break-even" calculator: How much trading fee APY is needed to cover the IL.
++
++Development Plan:
++
++1. Implement the standard xy=k AMM formulas for IL calculation.
++2. Create a reactive UI where users can slide price bars to simulate "What if price goes up 10%?".
++3. Fetch live prices for auto-filling current values.
++4. Support different pool weights (e.g., Balancer 80/20 pools).
++5. Mobile-friendly design for quick checks on the go.
++```
++
++Generate an app logo and update the app metadata title and description.
