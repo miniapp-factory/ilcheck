@@ -19,8 +19,6 @@ export default function IlCalculator() {
   const [breakEvenFee, setBreakEvenFee] = useState(0);
 
   useEffect(() => {
-    const wA = weightA;
-    const wB = 1 - weightA;
 
     // Impermanent loss for a 50/50 pool (simplified)
     const priceRatioA = currentA / entryA;
